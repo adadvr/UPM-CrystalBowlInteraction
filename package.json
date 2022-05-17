@@ -1,7 +1,7 @@
 {
     "name": "com.moonshot.upmcrystalbowlinteraction",
     "version": "1.0.0",
-    "displayName": "Crystal bowl intaraction Script Example",
+    "displayName": "Crystal bowl interaction Script Example",
     "unity": "2021.3",
     "author": {
         "name": "Ricardo Cobos",
@@ -11,7 +11,7 @@
     "samples": [
         {
             "displayName": "Sample Interaction",
-            "description": "Contains sample scene for the crystal bowl intaraction",
+            "description": "Contains sample scene for the crystal bowl interaction",
             "path": "Samples~/SampleInteraction"
         }
     ]
