@@ -7,5 +7,12 @@
         "name": "Ricardo Cobos",
         "email": "ricardo@moonshot.la",
         "url": ""
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Sample Interaction",
+            "description": "Contains sample scene for the crystal bowl intaraction",
+            "path": "Samples~/SampleInteraction"
+        }
+    ]
 }
