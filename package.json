@@ -8,11 +8,18 @@
         "name": "Ricardo Cobos",
         "email": "ricardo@moonshot.la"        
     },
+    "documentationUrl": "https://github.com/adadvr/UPM-CrystalBowlInteraction#readme",
+    "changelogUrl": "https://github.com/adadvr/UPM-CrystalBowlInteraction#readme",
+    "licensesUrl": "https://github.com/adadvr/UPM-CrystalBowlInteraction/blob/main/LICENSE",
     "samples": [
         {
             "displayName": "Sample Interaction",
             "description": "Contains sample scene for the crystal bowl interaction",
             "path": "Samples/SampleInteraction"
         }
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adadvr/UPM-CrystalBowlInteraction.git"
+    }
 }
